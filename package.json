@@ -1,6 +1,6 @@
 {
   "name": "reactjs-vite-tailwindcss",
-  "description": "This is a React + vite project to be used with Tailwindcss.",
+  "description": "This is a Typescript + React + Vite + TailwindCss project",
   "version": "0.1.0",
   "private": true,
   "author": {
