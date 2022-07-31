@@ -1,6 +1,6 @@
 # React Tailwindcss Boilerplate build with Vite
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev)  to be used with [Tailwindcss](https://tailwindcss.com).
 
 ## What is inside?
 
@@ -22,7 +22,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
+git clone the project
 ```
 
 Access the project directory.
