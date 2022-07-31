@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-screen-xl ">
-        <h1 className="h-20 rounded-sm bg-green-900 px-4 text-center text-4xl font-bold text-white sm:px-6 sm:text-5xl sm:tracking-tight lg:px-8 lg:text-6xl">
+        <h1 className="rounded-sm bg-green-900 p-4 text-center text-4xl font-bold text-white sm:px-6 sm:text-5xl sm:tracking-tight lg:px-8 lg:text-6xl">
           Reactjs Typescript Tailwindcss Vite Project
         </h1>
         <div className="text-center">
